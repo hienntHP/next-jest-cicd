@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App hiennt2</title>
+        <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -35,7 +35,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h3>Examples hiennt&rarr;</h3>
+            <h3>Examples&rarr;</h3>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
